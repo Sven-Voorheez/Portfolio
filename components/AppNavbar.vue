@@ -4,7 +4,7 @@ const route = useRoute()
 </script>
 
 <template>
-  <nav class="bg-gray-900 text-white px-6 py-4 flex flex-wrap gap-6 justify-center shadow-md">
+  <nav class=" sticky top-0 z-50 bg-gray-900 text-white px-6 py-4 flex flex-wrap gap-6 justify-center shadow-md">
     <NuxtLink
       to="/"
       class="relative pb-1 transition hover:text-blue-400"
