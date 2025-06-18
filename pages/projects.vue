@@ -21,7 +21,7 @@ useHead({
 
 const projects = [
   { id: '1', title: 'Demon Slayer Site', description: 'Сайт на React + Vite с Bootstrap', link: 'https://demon-slayer-zeta.vercel.app/' },
-  { id: '2', title: 'Weather App', description: 'Погода на Vue + Vite. Температура и ощущение.', link: 'https://weather-project-kohl.vercel.app' },
+  { id: '2', title: 'Weather App', description: 'Погода на Vue + Vite. Температура и ощущение.', link: 'https://weather-one-rust.vercel.app/' },
   { id: '3', title: 'IT Solution', description: 'Современная верстка на Vue + Tailwind.', link: 'https://it-solution-xi.vercel.app' },
   { id: '4', title: 'Резюме-сайт', description: 'Верстка резюме на HTML/CSS.', link: 'https://sven-voorheez.github.io/Resume/' },
   { id: '5', title: 'Магазин одежды', description: 'Магазин одежды на HTML/CSS.', link: 'https://sven-voorheez.github.io/Clothing-Store/' },

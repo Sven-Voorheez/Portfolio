@@ -1,9 +1,9 @@
 <template>
   <div 
   class="min-h-screen flex flex-col 
-    bg-gradient-to-r from-blue-50 to-purple-50 
-    dark:from-gray-400 dark:to-gray-700 
+    bg-gradient-to-r from-gray-400 to-gray-700 
     transition-colors duration-300">
+
 
     <Navbar />
 

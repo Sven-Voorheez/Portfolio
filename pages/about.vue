@@ -1,6 +1,6 @@
 <template>
   <section class="max-w-3xl mx-auto py-16 px-6 bg-white dark:bg-neutral-900 rounded-2xl shadow-md transition duration-300">
-    <h1 class="text-4xl font-extrabold text-gray-900 dark:text-white mb-6 tracking-tight">
+    <h1 class="text-4xl font-extrabold text-gray-900 dark:text-white mb-6 tracking-tight ">
       Обо мне
     </h1>
 
